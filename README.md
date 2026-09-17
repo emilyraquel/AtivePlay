@@ -150,9 +150,9 @@ Nenhuma decisão arquitetural descrita futuramente deverá ser considerada defin
 A stack tecnológica ainda está em processo de definição.
 
 ```text
-Frontend:             A definir
-Backend:              A definir
-Banco de dados:       A definir
+Frontend:             React Native/Expo
+Backend:              Supabase
+Banco de dados:       PostgreSQL
 Autenticação:         A definir
 Infraestrutura:       A definir
 Cloud:                A definir
